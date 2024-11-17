@@ -1,20 +1,36 @@
 # 演示文稿
 
+## 2024-10
+
+18. 基于 KBOM 保障 Kubernetes 组件安全
+
+- 📑 文件：[基于 KBOM 保障 Kubernetes 组件安全](./基于%20KBOM%20保障%20Kubernetes%20组件安全.pdf)
+- 💬 简介：当前，Kubernetes的安全防护主要依赖于配置扫描和漏洞扫描，而Kubernetes组件安全则显得相对滞后。2024年2月，Leaky Vessels漏洞的爆发引发了全球范围内的容器逃逸事件，使得Kubernetes组件安全问题备受关注。同年，我国公安三所发布的软件供应链安全动态报告，进一步推动了我国供应链安全领域的进步。在这一背景下，本次议题将深入探讨如何为Kubernetes集群自动生成Kubernetes软件物料清单（KBOM），并基于KBOM构建一个简易的Kubernetes组件安全扫描器，以保障Kubernetes组件安全。
+
 ## 2024-09
 
+17. 金融科技中的容器安全：基于 eBPF 和 WASM 的漏洞降噪技术
+
+- 📑 文件：[金融科技中的容器安全：基于 eBPF 和 WASM 的漏洞降噪技术](./金融科技中的容器安全：基于%20eBPF%20和%20WASM%20的漏洞降噪技术.pdf)
+
+- 💬 简介：本次演讲将展示如何通过eBPF和WASM技术优化金融科技领域的容器安全管理。通过镜像漏洞降噪技术和漏洞优先级技术，金融机构能够更高效地应对容器镜像中的漏洞，减少无效的修复工作，专注于真正影响业务安全的关键问题，推动新技术在金融行业中的安全应用。
+
 16. How to 10X Your Cloud Security (Without the Series D)
+
 - 🔗 链接：<https://speakerdeck.com/ramimac/how-to-10x-your-cloud-security-without-the-series-d>
 - 💬 简介：Rami McCarthy 在fwd cloudsec EU会议上的精彩演讲，他对构建安全程序、不变量、漏洞和资产管理、身份和访问管理、检测工程、部署等方面的有用资源和想法。作者总结提炼了将云安全项目规模化的可行指导，这些指导来自众多的演讲和博客文章。将快速浏览云安全是什么，如何更有效地进行云安全工作，以及未来可能的发展方向。演讲结束也会获得实用的要点，以及一份详尽的参考文献。
 
 ## 2024-08
 
 15. 加强容器安全性：共同的旅程｜KC24
+
 - 📅 日期：2024-08-21-23
 - 🔗 链接：<https://mp.weixin.qq.com/s/arrxfJOnctaGb4eoWFR9pQ>
 - 💬 简介：Strengthening Container Security: A Collaborative Journey | 加强容器安全性：共同的旅程 - Yi Zha, Microsoft & Beltran Rueda Borrego, VMware (part of Broadcom)
 - 💬 简介：确保容器镜像的完整性和真实性对于保护容器供应链至关重要。随着开发人员越来越多地使用来自外部来源的镜像，一些问题浮出水面：我们如何验证这些镜像来自可信赖的供应商？我们如何确保它们自创建以来没有被篡改？在这场演讲中，您将从VMware Bitnami的实际经验中学习，他们与Notary项目社区合作实施了镜像签名和验证。Bitnami将向您展示他们如何使用Notary项目签名来确保来自Docker Hub的镜像的完整性和真实性。不要错过这个机会，在您的CI/CD流水线和Kubernetes部署中通过Notary项目获得容器安全的实用见解！此外，我们将探讨未来的增强功能，包括证明支持，使用户能够从各种角度验证镜像，如来源、漏洞评估和软件合规性。
 
 14. Exploiting Common Vulnerabilities in AWS environments
+
 - 📅 日期：2024-08-09
 - 📑 文件：<https://docs.google.com/presentation/d/1-oYd-qv_b09gdAflJ3LSJzs1WQjWbjWHACHvGhKgBIo/edit>
 - 🔗 链接：DEFCON 32会议的云安全专题 <https://dc32.cloud-village.org/>
@@ -23,11 +39,11 @@
 ## 2024-06
 
 13. 作为新手如何开展AWS安全研究  
+
 - 📅 日期：2024-06-17
 - 📑 标题：Get into AWS security research as a n00bcake
 - 💬 简介：想要进入 AWS 安全研究，但不知道从哪里开始？这个演讲就是为你准备的
 - 🔗 在线观看：<https://www.youtube.com/watch?v=jEFGzLbG1r4&list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl&index=40>
-
 
 12. 云服务常见漏洞分享
 
@@ -45,7 +61,6 @@
 - 📑 文件：[KubeHound and Beyond_Jeremy Fox](https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Jeremy%20Fox%20-%20KubeHound%20and%20Beyond)
 - 🔗 在线观看：<https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP>
 
-
 10. Apeman项目：绘制AWS身份攻击路径
 
 - 📅 日期：2024-03-11
@@ -53,7 +68,6 @@
 - 📃 简介：这是Daniel Heinsen在[SO-CON 2024](https://specterops.io/so-con/)会上的一篇演讲。在不断发展的云安全格局中，自动发现身份攻击路径已成为缓解网络威胁的关键策略。本次演讲深入探讨了AWS生态系统中的"Tier 0"安全概念，并介绍了Apeman，这是一种新的原型工具，旨在映射和可视化AWS身份攻击路径。讨论还将深入探讨Apeman开发过程中遇到的挑战。
 - 📑 文件：[Project Apeman_Daniel Heinsen](https://github.com/SpecterOps/presentations/tree/main/SO-CON%202024/Daniel%20Heinsen%20-%20Project%20Apeman)
 - 🔗 在线观看：<https://youtu.be/Gs5BZplrxe4?si=anDhx4cXyukgSEgJ>
-
 
 9. 用这5个简单的技巧让黑客远离你的Kubernetes集群
 
@@ -69,7 +83,6 @@
 - 📅 日期：2022-11-29
 - 📑 文件：[Kubernetes Privilege Escalation: Container Escape == Cluster Admin?](./Kubernetes%20Privilege%20Escalation:%20Container%20Escape%20equal%20to%20Cluster%20Admin.pdf)
 - 🔗 在线观看：<https://www.youtube.com/watch?v=oc1tq_r6VNM>
-
 
 ## 2021-12
 
@@ -108,7 +121,6 @@
 - 📅 日期：2020-02-26
 - 📑 文件：[Compromising Kubernetes Cluster by Exploiting RBAC Permissions](./2020_USA20_dso-w01_01_compromising-kubernetes-cluster-by-exploiting-rbac-permissions.pdf)
 - 🔗 链接：<https://www.youtube.com/watch?v=1LMo0CftVC4>
-
 
 ## 2019-11
 

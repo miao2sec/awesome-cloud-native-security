@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/github/issues/y4ney/awesome-cloud-native-security" />
- <img src="https://img.shields.io/github/forks/y4ney/awesome-cloud-native-security" />
- <img src="https://img.shields.io/github/stars/y4ney/awesome-cloud-native-security" />
+ <img src="https://img.shields.io/github/issues/miao2sec/awesome-cloud-native-security" />
+ <img src="https://img.shields.io/github/forks/miao2sec/awesome-cloud-native-security" />
+ <img src="https://img.shields.io/github/stars/miao2sec/awesome-cloud-native-security" />
 </p>
 
 ## 0x00 特别鸣谢
@@ -18,16 +18,16 @@
 
 ## 0x01 项目内容
 
-- 📖 [书籍（7）](./books/README.md)
-- 🛠️ [闭源工具（2）](./closed-source-tools/README.md)
-- 📚 [文库博客（20）](./dynamic-document/README.md)
-- 🏝 [靶场（14）](./labs/README.md)
-- 🔍 [开源工具（29）](./open-source-tools/README.md)
-- 📑 [论文报告（33）](./papers/README.md)
-- 🥸 [演示文稿（16）](./slides/README.md)
-- 📜 [静态文档（63）](./static-documents/README.md)
-- 🌐 [公众号（3）](./wechat-public-account.md)
-- ⏰ [云原生会议（3）](./conference/README.md)
+- 📖 [书籍（7）](./书籍/README.md)
+- 🛠️ [闭源工具（2）](./闭源工具/README.md)
+- 📚 [文库博客（20）](./文库博客/README.md)
+- 🏝 [靶场（14）](./靶场/README.md)
+- 🔍 [开源工具（34）](./开源工具/README.md)
+- 📑 [论文报告（35）](./论文报告/README.md)
+- 🥸 [演示文稿（18）](./演示文稿/README.md)
+- 📜 [静态文档（82）](./静态文档/README.md)
+- 🌐 [公众号（5）](./公众号/README.md)
+- ⏰ [云原生会议（3）](./会议/README.md)
 
 ## 0x02 如何使用
 
@@ -35,39 +35,37 @@
 
 - 🙋🏻‍♀️ ：我也有比较好用的工具、网站和案例可以分享。
 
-    💁🏻‍♀️ ：提交 [PR](https://github.com/y4ney/InfoCollect/pulls)
+    💁🏻‍♀️ ：提交 [PR](https://github.com/miao2sec/awesome-cloud-native-security/pulls)
 
 - 🙋🏻‍♀️ ： 我想要收集某个信息，但是在这里找不到工具。
 
-    💁🏻‍♀️：打开 [Discussion](https://github.com/y4ney/InfoCollect/discussions)
+    💁🏻‍♀️：打开 [Discussion](https://github.com/miao2sec/awesome-cloud-native-security/discussions)
 
 - 🙋🏻‍♀️ ：我发现了错误
 
-    💁🏻‍♀️：提交 [Issues](https://github.com/y4ney/InfoCollect/issues)
+    💁🏻‍♀️：提交 [Issues](https://github.com/miao2sec/awesome-cloud-native-security/issues)
 
 - 🙋🏻‍♀️ ：我想转载
 
-    💁🏻‍♀️ ： 请注明来源：[https://github.com/y4ney/awesome-cloud-native-security](https://github.com/y4ney/awesome-cloud-native-security)
+    💁🏻‍♀️ ： 请注明来源：[https://github.com/miao2sec/awesome-cloud-native-security](https://github.com/miao2sec/awesome-cloud-native-security)
 
-## 0x03 交流
+## 0x03 关于我们
 
-我们是一群专注于云原生安全的铲屎官 🐈🐈。
+1. 我们是一群专注于云原生安全的铲屎官 🐈🐈，如果你对我们感兴趣，可以阅读下面这篇文章～
 
-关注公众号：“喵苗安全”，加入我们 🎉🎉
+- [团队说明——来自鱼头的一封信](https://mp.weixin.qq.com/s/Jvwqpg0Z9-A4lyNXGjPkWw)
 
-若有任何问题，请联系我们的小猫咪客服 🐱🐱
+2. 关注公众号【喵苗安全】，获取一手资讯~
 
-![鱼头](./images/YuTou.png)
+  ![miao2sec](./images/miao2sec.jpg)
+3. 若有任何问题，请联系我们的小猫咪客服 🐱🐱
 
-
-如果你也有比较好用的工具或网站并且愿意分享，欢迎起来一起交流。
-
-整理不易，如觉得有帮助，可以给个star支持一下，多谢！
+![yunduo](./images/yunduo.jpeg)
 
 ## 0x04 Star曲线
 
-[![Stargazers over time](https://starchart.cc/y4ney/awesome-cloud-native-security.svg?variant=adaptive)](https://starchart.cc/y4ney/awesome-cloud-native-security)
+如果你也有比较好用的工具或网站并且愿意分享，欢迎起来一起交流～
 
-## 信息源
+如觉得有帮助，可以给个star支持一下，多谢！
 
-- [Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
+[![Stargazers over time](https://starchart.cc/miao2sec/awesome-cloud-native-security.svg?variant=adaptive)](https://starchart.cc/miao2sec/awesome-cloud-native-security)
