@@ -51,16 +51,11 @@
 
 ## 0x03 关于我们
 
-1. 我们是一群专注于云原生安全的铲屎官 🐈🐈，如果你对我们感兴趣，可以阅读下面这篇文章～
-
-- [团队说明——来自鱼头的一封信](https://mp.weixin.qq.com/s/Jvwqpg0Z9-A4lyNXGjPkWw)
-
+1. 我们是一群专注于云原生安全的铲屎官 🐈🐈，如果你对我们感兴趣，可以阅读【[团队说明——来自鱼头的一封信](https://mp.weixin.qq.com/s/Jvwqpg0Z9-A4lyNXGjPkWw)】
 2. 关注公众号【喵苗安全】，获取一手资讯~
-
-  ![miao2sec](./images/miao2sec.jpg)
+  <img src="./images/miao2sec.jpg" alt="miao2sec" style="width:200px; height:auto;" />
 3. 若有任何问题，请联系我们的小猫咪客服 🐱🐱
-
-![yunduo](./images/yunduo.jpeg)
+<img src="./images/yunduo.jpeg" alt="yunduo" style="width:200px; height:auto;" />
 
 ## 0x04 Star曲线
 
