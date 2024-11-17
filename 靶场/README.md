@@ -68,6 +68,7 @@
 - 🔗 链接：<https://github.com/raesene/kube_security_lab>
 - 💬 简介：使用 Docker、Kind 和 Ansible 创建的本地 K8S 环境，包含 14 个易受攻击的场景。
 
+
 ## AWS
 
 13. Pwned Labs
@@ -81,3 +82,8 @@
 
 - 🔗 链接：<https://labs.iximiuz.com/>
 - 💬 简介：iximiuz Labs是由[Ivan Velichko](https://iximiuz.com/about)创建的独立学习平台。主要包括Linux、网络、Docker、K8s以及DevOps，SRE相关知识。
+
+15. traefik漏洞CVE-2024-45410利用复现CTF靶场
+
+- 🔗 链接：<https://github.com/jphetphoumy/traefik-CVE-2024-45410-poc>
+- 💬 简介：Traefik是一个云原生的新型的 HTTP 反向代理、负载均衡软件。它负责接收系统的请求，然后使用合适的组件来对这些请求进行处理。Traefik兼容所有主流的集群技术，比如 Kubernetes，Docker，Docker Swarm，AWS，Mesos，Marathon，等等；并且可以同时处理多种方式。这个CTF复现靶场提供了traefik CVE-2024-45410的验证poc，了解漏洞影响。
