@@ -2,7 +2,7 @@
 
 ## 2024-10
 
-35. 2024 年全球威胁报告
+36. 2024 年全球威胁报告
 
 - 📑 文件：[2024年全球威胁报告（elastic security labs）](./2024-10/2024年全球威胁报告（elastic%20security%20labs）.pdf)
 - 🔗 链接：<https://www.elastic.co/cn/pdf/elastic-global-threat-report-2024>
@@ -10,13 +10,13 @@
 
 ## 2024-09
 
-34. DevOps Security Best Practices(DevOps安全最佳实践报告)
+35. DevOps Security Best Practices(DevOps安全最佳实践报告)
 
 - 📑 文件：[DevOps Security Best Practices [Cheat Sheet]](./2024-09/wiz-080124-devops-security-best-practices.pdf)
 - 🔗 链接：<https://www.wiz.io/lp/devops-security-best-practices-cheat-sheet>
 - 简介：来自Wiz总结的DevOps安全最佳实践报告，探讨了安全编码、基础设施安全以及警惕的监控和响应。结合了行业见解和实际经验，每个部分将理论知识与应用实践相结合，提供了切实可行的建议。
 
-33. Standardizing Privileged Access Architecture for Multi-Cloud（标准化多云访问架构）
+34. Standardizing Privileged Access Architecture for Multi-Cloud（标准化多云访问架构）
 
 - 📅 日期：2024-09-12
 - 📑 文件：[Standardizing Privileged Access Architecture for Multi-Cloud](./2024-09/standardizing-privileged-access-architecture-for-multi-cloud.pdf)
@@ -25,13 +25,13 @@
 
 ## 2024-07
 
-32. 2024年中国网络安全市场全景图
+33. 2024年中国网络安全市场全景图
 
 - 📅 日期：2024-07-04
 - 📑 文件：[2024年中国网络安全市场全景图](./2024-07/2024年中国网络安全市场全景图.pdf)
 - 🔗 链接：<https://www.secrss.com/articles/67755>
 
-31. 云安全责任共担模型2024
+32. 云安全责任共担模型2024
 
 - 📅 日期：2024-07-03
 - 📑 文件：[云安全责任共担模型2024](./2024-07/云安全责任共担模型2024.pdf)
@@ -39,7 +39,7 @@
 
 ## 2024-06
 
-30. The state of Kubernetes security report: 2024 edition
+31. The state of Kubernetes security report: 2024 edition
 
 - 📅 日期：2024-06-11
 - 📑 文件：[The state of Kubernetes security report: 2024 edition](./2024-06/cl-state-kubernetes-security-report-2024-1210287-202406-en.pdf)
@@ -48,7 +48,7 @@
 
 ## 2024-04
 
-29. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
+30. KernJC：针对 Linux 内核漏洞的自动漏洞环境生成
 
 - 📅 日期：2024-04-17（最后修改时间：2024-04-27）
 - 📑 文件：[KernJC: Automated Vulnerable Environment Generation for Linux Kernel Vulnerabilities](./2024-04/KernJC-%20Automated%20Vulnerable%20Environment%20Generation%20for%20Linux%20Kernel%20Vulnerabilities.pdf)
@@ -56,7 +56,7 @@
 
 ## 2024-03
 
-28. "Cloud Native Artificial Intelligence Whitepaper" CNCF云原生AI白皮书
+29. "Cloud Native Artificial Intelligence Whitepaper" CNCF云原生AI白皮书
 
 - 📅 日期：2024-03-20
 - 📑 文件：[Cloud Native Artificial Intelligence Whitepaper](./2024-03/CLOUD%20NATIVE%20ARTIFICIAL%20INTELLIGENCE.pdf)
@@ -65,7 +65,7 @@
 
 ## 2023-10
 
-27. 容器编排蜜罐: 观察在野攻击
+28. 容器编排蜜罐: 观察在野攻击
     
 - 📅 日期：2023-10-16
 - 📑 文件：[Container Orchestration Honeypot: Observing Attacks in the Wild](./2023-10/Container_Orchestration_Honeypot_Observing_Attacks_in_the_Wild.pdf)
@@ -73,7 +73,7 @@
 
 ## 2023-09
 
-26. 解秘漏洞管理：独立工具与端点保护技术
+27. 解秘漏洞管理：独立工具与端点保护技术
 
 - 📅 日期：2023-03-24
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-03/Decoding%20Vulnerability%20Management-%20A%20Stand%20Alone%20Tool%20vs.%20a%20Technique%20in%20Endpoint%20Protection.pdf)
@@ -81,7 +81,7 @@
 
 ## 2023-07
 
-25. 信通院《云原生安全配置基线规范》
+26. 信通院《云原生安全配置基线规范》
 
 - 📅 日期：2023-07-28
 - 📑 文件：[Decoding Vulnerability Management: A Stand Alone Tool vs. a Technique in Endpoint Protection](./2023-07/云原生安全配置基线规范-终稿V4.pdf)
@@ -89,7 +89,7 @@
 
 ## 2023-06
 
-24. CIS Docker 合规基线 v1.6.0
+25. CIS Docker 合规基线 v1.6.0
 
 - 📅 日期：2023-06-22
 - 📑 文件：[CIS Docker Benchmark v1.6.0](./2023-06/CIS_Docker_Benchmark_V1.6.0.PDF)
@@ -97,7 +97,7 @@
 
 ## 2023-04
 
-23. 如何实施基于风险的漏洞管理方法
+24. 如何实施基于风险的漏洞管理方法
 
 - 📅 日期：2023-04-20
 - 📑 文件：[How To Implement a Risk-Based Vulnerability Management Methodology](./2023-04/How%20To%20Implement%20a%20Risk-Based%20Vulnerability%20Management%20Methodology.pdf)
@@ -105,7 +105,7 @@
 
 ## 2023-03
 
-22. 云安全防护：有效的漏洞管理指南
+23. 云安全防护：有效的漏洞管理指南
 
 - 📅 日期：2023-09-14
 - 📑 文件：[Securing the Cloud:A Guide to Effective Vulnerability Management](./2023-09/securing-the-cloud-guide-to-effective-vulnerability-management.pdf)
@@ -113,12 +113,16 @@
 
 ## 2023-01
 
-21. 基于异构观测链的容器逃逸检测方法
+22. 基于异构观测链的容器逃逸检测方法
 
 - 📅 日期：2023-01
 - 🔗 链接：https://www.infocomm-journal.com/txxb/CN/abstract/abstract173110.shtml
 
 ## 2022-12
+
+21. 云上安全攻防实战手册
+- 📅 日期：2022年
+- 📑 文件：[云上安全攻防实战手册](./2022-12/)
 
 20. CIS Docker 合规基线 v1.5.0
 
