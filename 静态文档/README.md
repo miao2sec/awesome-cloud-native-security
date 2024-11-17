@@ -4,6 +4,64 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-11
+
+91. Kubernetes RBAC：改善 K8s 的安全态势
+
+- 📅 日期：2024-11-8
+- 🔗 链接：<https://www.cncf.io/blog/2024/11/08/kubernetes-rbac-improve-the-k8s-security-posture/>
+- 💬 简介：这篇文章讨论了如何通过改善Kubernetes的角色访问控制（RBAC）来提升Kubernetes安全性。
+
+90. 云安全的未来：行为检测和降低噪音
+
+- 📅 日期：2024-9-12
+- 🔗 链接：<https://rad.security/blog/future-cloud-security-behavioral-detection-noise>
+- 💬 简介：这篇文章探讨了云安全的未来，特别是如何通过行为检测技术来减少噪音，提高安全威胁的检测效率。传统基于签名的方法（如依赖预定义的威胁模式）在云原生环境中容易因高噪音率和复杂的威胁态势而失效。而行为检测通过分析用户和系统的正常行为基线，能够更好地识别异常活动，特别是针对未知或0 day攻击。
+
+89. A beginners guide to contributing to CNCF open source projects（初学者参与CNCF开源项目的指南）
+
+- 📅 日期：2024-11-11
+- 🔗 链接：<https://www.cncf.io/blog/2024/11/11/a-beginners-guide-to-contributing-to-cncf-open-source-projects/>
+- 💬 简介：在这篇博客文章中，将探讨如何参与CNCF（云原生计算基金会）开源项目，您需要贡献哪些知识，以及如何成为这个社区的一员。
+
+88. Making Sense of Kubernetes Initial Access Vectors（理解Kubernetes初始访问向量）
+
+- 📅 日期：2024-11-14
+- 🔗 链接：[Making Sense of Kubernetes Initial Access Vectors Part 1 – Control Plane](https://www.wiz.io/blog/making-sense-of-kubernetes-initial-access-vectors-part-1-control-plane)
+- 🔗 链接：[Making Sense of Kubernetes Initial Access Vectors Part 2 - Data Plane](https://www.wiz.io/blog/kubernetes-data-plane)
+- 💬 简介：Wiz的文章分为两篇：Part 1 —— 控制平面，探索Kubernetes控制平面访问向量、风险和安全策略，以防止未经授权的访问并保护您的集群免受潜在威胁。Part 2 —— 数据平面，了解Kubernetes数据平面访问，包括在集群上运行的应用程序、容器映像和执行即服务工作负载类型。
+
+87. Kubernetes Audit Log “Gotchas”（解决Kubernetes审计日志的挑战）
+
+- 📅 日期：2024-11-15
+- 🔗 链接：<https://www.wiz.io/blog/overcoming-kubernetes-audit-log-challenges>
+- 💬 简介：Wiz 的文章分析了 Kubernetes 环境中管理审计日志的复杂性，并提出了改进安全性和提升操作可见性的解决方案。Wiz 强调，这些能力是其更广泛 Kubernetes 和容器安全平台的一部分，旨在全面保护容器化环境。
+
+86. GitHubActions & 阿里云解决国内镜像拉取问题
+
+- 📅 日期：2024-11-17
+- 🔗 链接1：<https://mp.weixin.qq.com/s/1NAuDD95mcu_zXzSRh7Fuw>
+- 🔗 链接2：<https://mp.weixin.qq.com/s/-bDrC63J52oSEcIfGcQ7pw>
+- 💬 简介：Docker Hub 仓库国内无法拉取镜像，如何应对? 利用Github-Action同步国外镜像到指定的个人Docker hub镜像仓库以及企业在互联网里的私有仓库中。
+
+85. 深入可观测：基于 eBPF 构建下一代容器全栈观测的实践
+
+- 📅 日期：2024-11-15
+- 🔗 链接：<https://mp.weixin.qq.com/s/Z_-c2jSz_bOmvIceNfxCXg>
+- 💬 简介：随着云原生技术栈的迅速发展，系统复杂性逐渐下沉到服务网格、网关、通用 sidecar、serverless 运行时、内核等基础设施层面，给可观测性带来了巨大的挑战。本文结合真实的排障案例，介绍了火山引擎云原生团队在容器全栈观测方面的技术实践。
+
+84. 绿盟科技发布云原生ATT&CK矩阵
+
+- 📅 日期：2024-11-12
+- 🔗 链接：<https://mp.weixin.qq.com/s/f5qXmjcghIpOnMR6mV9lhA>
+- 💬 简介：相比于之前微软、MITRE提出的云原生ATT&CK矩阵，此次绿盟提出的云原生ATT&CK矩阵在技术和子技术这两层更全面，对应的技术介绍更加详细。我们丰富了每层技术下对应的子技术数量，淘汰了一些过时的子技术，并且将同类的子技术尽可能归到一个技术中，使得整个云原生ATT&CK矩阵更通用更标准化。详细内容可参考开源项目[nsfocus-cloud-native-attack](https://github.com/Metarget/nsfocus-cloud-native-attack)
+
+83. EMERALDWHALE黑客组织窃取15000+云凭据
+
+- 📅 日期：2024-11-1
+- 🔗 链接：<https://hackread.com/emeraldwhale-steals-cloud-credentials-data-s3-bucket/>
+- 💬 简介：Sysdig 威胁研究团队发现名为 EMERALDWHALE 的全球攻击行动，窃取了超过15,000 个云服务凭证，主要通过滥用暴露的 Git 和 Laravel 文件进行攻击。攻击者利用这些凭证进行网络钓鱼和垃圾邮件活动，并将盗取的数据存储在被攻击者的 S3 桶中。这一事件突显了配置管理的重要性，提醒企业加强对敏感信息的保护。
+
 ## 2024-10
 
 82. 朝鲜 ScarCruft 黑客组织利用 Windows 0day漏洞传播 RokRAT 恶意软件
