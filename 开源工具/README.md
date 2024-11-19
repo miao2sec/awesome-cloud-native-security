@@ -1,5 +1,10 @@
 # 开源工具
 
+35. Kubescape
+
+- 🔗 链接：<https://github.com/kubescape/kubescape>
+- 💬 简介：Kubescape 是一个开源 Kubernetes 安全平台，可在整个开发和部署生命周期中提供从左到右的全面安全覆盖。它提供强化、态势管理和运行时安全功能，以确保为 Kubernetes 环境提供强大的保护。
+
 34. Hunting-Queries-Detection-Rules
 
 - 🔗 链接：<https://github.com/SlimKQL/Hunting-Queries-Detection-Rules>
