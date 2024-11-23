@@ -1,35 +1,46 @@
 # 演示文稿
 
-## 2024-10
+## 2024-11
 
-18. 基于 KBOM 保障 Kubernetes 组件安全
+20. 基于 KBOM 保障 Kubernetes 组件安全
 
+- 📅 日期：2024-11-09
 - 📑 文件：[基于 KBOM 保障 Kubernetes 组件安全](./基于%20KBOM%20保障%20Kubernetes%20组件安全.pdf)
 - 💬 简介：当前，Kubernetes的安全防护主要依赖于配置扫描和漏洞扫描，而Kubernetes组件安全则显得相对滞后。2024年2月，Leaky Vessels漏洞的爆发引发了全球范围内的容器逃逸事件，使得Kubernetes组件安全问题备受关注。同年，我国公安三所发布的软件供应链安全动态报告，进一步推动了我国供应链安全领域的进步。在这一背景下，本次议题将深入探讨如何为Kubernetes集群自动生成Kubernetes软件物料清单（KBOM），并基于KBOM构建一个简易的Kubernetes组件安全扫描器，以保障Kubernetes组件安全。
 
+## 2024-10
+
+19. 通过影子资源破坏 AWS
+
+- 📅 日期：2024-10-17
+- 📑 文件：[DEF CON 32 - Breaching AWS Through Shadow Resources](./US24-Kadkoda-Breaching-AWS-Accounts-Through-Shadow-Resources-Wednesday.pdf)
+- 🔗 在线观看：<https://www.youtube.com/watch?v=m9QVfYVJ7R8>
+- 💬 简介：云看起来很复杂，但真正让事情变得复杂的是幕后发生的事情。一些服务利用其他服务作为其逻辑/操作的一部分的资源。有趣的是，事实证明，如果操作不安全，这可能会导致灾难性的结果。
+本次演讲将介绍我们在 AWS 中发现的六个关键漏洞，以及它们背后的故事和方法。 AWS 立即承认并修复了这些漏洞，这些漏洞可能允许外部攻击者破坏几乎所有 AWS 账户。这些漏洞的范围从可能导致帐户完全被接管的远程代码执行到信息泄露、可能暴露敏感数据或导致拒绝服务。本次会议将分享我们的发现故事，我们如何能够识别它们之间的共性，以及我们如何开发一种方法来发现更多漏洞并通过使用导致权限升级的常见技术来增强影响。然后，我们将详细介绍映射服务外部资源的方法，并发布我们的开源工具来研究服务内部 API 调用。我们还将提出一种方法来检查帐户过去是否容易受到此向量的影响。
+我们将总结本次研究中吸取的经验教训以及我们未来的研究方向。我们将重点介绍云研究人员在寻找云漏洞时需要探索的新领域，并重点介绍开发人员在复杂环境中使用的最佳实践。
+
 ## 2024-09
 
-17. 金融科技中的容器安全：基于 eBPF 和 WASM 的漏洞降噪技术
+18. 金融科技中的容器安全：基于 eBPF 和 WASM 的漏洞降噪技术
 
 - 📑 文件：[金融科技中的容器安全：基于 eBPF 和 WASM 的漏洞降噪技术](./金融科技中的容器安全：基于%20eBPF%20和%20WASM%20的漏洞降噪技术.pdf)
-
 - 💬 简介：本次演讲将展示如何通过eBPF和WASM技术优化金融科技领域的容器安全管理。通过镜像漏洞降噪技术和漏洞优先级技术，金融机构能够更高效地应对容器镜像中的漏洞，减少无效的修复工作，专注于真正影响业务安全的关键问题，推动新技术在金融行业中的安全应用。
 
-16. How to 10X Your Cloud Security (Without the Series D)
+17. How to 10X Your Cloud Security (Without the Series D)
 
 - 🔗 链接：<https://speakerdeck.com/ramimac/how-to-10x-your-cloud-security-without-the-series-d>
 - 💬 简介：Rami McCarthy 在fwd cloudsec EU会议上的精彩演讲，他对构建安全程序、不变量、漏洞和资产管理、身份和访问管理、检测工程、部署等方面的有用资源和想法。作者总结提炼了将云安全项目规模化的可行指导，这些指导来自众多的演讲和博客文章。将快速浏览云安全是什么，如何更有效地进行云安全工作，以及未来可能的发展方向。演讲结束也会获得实用的要点，以及一份详尽的参考文献。
 
 ## 2024-08
 
-15. 加强容器安全性：共同的旅程｜KC24
+16. 加强容器安全性：共同的旅程｜KC24
 
-- 📅 日期：2024-08-21-23
+- 📅 日期：2024-08-21~2024-08-23
 - 🔗 链接：<https://mp.weixin.qq.com/s/arrxfJOnctaGb4eoWFR9pQ>
 - 💬 简介：Strengthening Container Security: A Collaborative Journey | 加强容器安全性：共同的旅程 - Yi Zha, Microsoft & Beltran Rueda Borrego, VMware (part of Broadcom)
 - 💬 简介：确保容器镜像的完整性和真实性对于保护容器供应链至关重要。随着开发人员越来越多地使用来自外部来源的镜像，一些问题浮出水面：我们如何验证这些镜像来自可信赖的供应商？我们如何确保它们自创建以来没有被篡改？在这场演讲中，您将从VMware Bitnami的实际经验中学习，他们与Notary项目社区合作实施了镜像签名和验证。Bitnami将向您展示他们如何使用Notary项目签名来确保来自Docker Hub的镜像的完整性和真实性。不要错过这个机会，在您的CI/CD流水线和Kubernetes部署中通过Notary项目获得容器安全的实用见解！此外，我们将探讨未来的增强功能，包括证明支持，使用户能够从各种角度验证镜像，如来源、漏洞评估和软件合规性。
 
-14. Exploiting Common Vulnerabilities in AWS environments
+15. Exploiting Common Vulnerabilities in AWS environments
 
 - 📅 日期：2024-08-09
 - 📑 文件：<https://docs.google.com/presentation/d/1-oYd-qv_b09gdAflJ3LSJzs1WQjWbjWHACHvGhKgBIo/edit>
@@ -38,6 +49,12 @@
 
 ## 2024-06
 
+14. 云服务常见漏洞分享
+
+- 📅 日期：2024-06-21
+- 📑 文件：[云服务常见漏洞分享](./4-云服务常见漏洞分享.pdf)
+- 🔗 在线观看：<https://bytedance.larkoffice.com/file/X29Zbl80LoOE7uxSq8RcV8Zwnmd>
+
 13. 作为新手如何开展AWS安全研究  
 
 - 📅 日期：2024-06-17
@@ -45,11 +62,14 @@
 - 💬 简介：想要进入 AWS 安全研究，但不知道从哪里开始？这个演讲就是为你准备的
 - 🔗 在线观看：<https://www.youtube.com/watch?v=jEFGzLbG1r4&list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl&index=40>
 
-12. 云服务常见漏洞分享
+12. Kubernetes 安全：现代基础设施的攻击和防御
 
-- 📅 日期：2024-06-21
-- 📑 文件：[云服务常见漏洞分享](./4-云服务常见漏洞分享.pdf)
-- 🔗 在线观看：<https://bytedance.larkoffice.com/file/X29Zbl80LoOE7uxSq8RcV8Zwnmd>
+- 📅 日期：2024-06-10
+- 📑 文件：[Kubernetes Security: Attacking and Defending Modern Infrastructure](./2024_USA24_SBX-R06_01_Kubernetes-Security-Attacking-And-Defending-Modern-Infrastructure_1713897952938001Snax.pdf)
+- 📑 标题：Kubernetes Security: Attacking and Defending Modern Infrastructure
+- 💬 简介：在云中运行工作负载会增加集群配置错误、凭据泄露、加密矿工和容器逃逸漏洞的风险。讨论 OWASP Kubernetes 十大威胁和 Kubernetes 威胁矩阵并探索减轻这些风险的保护措施将有助于防止攻击者使用 RBAC、OPA、安全性和其他内置功能损害您的组织。
+- 🔗 在线观看：<https://www.youtube.com/watch?v=iCzUv6-9zrI>
+
 
 ## 2024-03
 
