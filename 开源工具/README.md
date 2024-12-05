@@ -1,5 +1,10 @@
 # 开源工具
 
+1. rbac-police
+
+    - 🔗 链接：<https://github.com/PaloAltoNetworks/rbac-police>
+    - 💬 简介：检查Kubernetes身份的RBAC权限——服务帐户，pod，节点，用户和组-并使用Rego中编写的策略对其进行评估。
+
 1. Kubescape
 
     - 🔗 链接：<https://github.com/kubescape/kubescape>
