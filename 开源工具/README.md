@@ -129,12 +129,12 @@
     - 💬 简介：一个针对Google Cloud Platform (GCP) 的渗透测试框架，旨在帮助用户学习和利用GCP的安全特性，同时也为渗透测试人员和安全研究人员提供便利。用Python实现的类似于针对AWS的Pacu框架，专门为GCP设计。包括一些核心服务（云存储、云功能、云计算、IAM）的枚举模块以及大量漏洞利用模块的整合，其中许多模块都基于Rhino Security目前[公开的GCP漏洞利用存储库](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation/tree/master)。是为 GCP 渗透测试人员/红队/研究人员制作一个最新的、维护良好的枚举和漏洞利用工具集，通过允许普通用户制作自己的模块并轻松与整体框架结合，降低学习 GCP 的门槛。
     - 🎙️ 作者视频：来自fwd:cloudsec 2024会议[GCPwn：GCP 的渗透测试工具 - Scott Weston](https://www.youtube.com/watch?v=opvv9h3Qe0s)
 
-1.   KubeHound
+1. KubeHound
 
     - 🔗 链接：<https://github.com/DataDog/KubeHound>
     - 💬 简介：KubeHound是一款用于动态分析Kubernetes集群安全风险的工具，通过计算集群中各类资源配置与访问关系绘制潜在的攻击路径。KubeHound的优点在于使用图数据库，数据成果以集群资源为顶点(Vertex)，以攻击类型为边(Edge)，使用Gremlin数据库查询语言搜索攻击链路。
     - 🎙️ 作者视频：来自SO-CON 2024会议[KubeHound and Beyond - Jeremy Fox](https://youtu.be/pdCcJ-Kenf8?si=JyFUtRfJfFU2cDAP)
-    - 🔖使用案例：<https://mp.weixin.qq.com/s/sQ8brkm6D5DDTlUdaI41yw>
+    - 🔖 使用案例：<https://mp.weixin.qq.com/s/sQ8brkm6D5DDTlUdaI41yw>
 
 1. Stratus Red Team
 
