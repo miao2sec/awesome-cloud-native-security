@@ -12,7 +12,7 @@
     - 🔗 链接：<https://www.cncf.io/blog/2024/11/08/kubernetes-rbac-improve-the-k8s-security-posture/>
     - 💬 简介：这篇文章讨论了如何通过改善Kubernetes的角色访问控制（RBAC）来提升Kubernetes安全性。
 
-1. .A beginners guide to contributing to CNCF open source projects（初学者参与CNCF开源项目的指南）
+1. A beginners guide to contributing to CNCF open source projects（初学者参与CNCF开源项目的指南）
 
     - 📅 日期：2024-11-11
     - 🔗 链接：<https://www.cncf.io/blog/2024/11/11/a-beginners-guide-to-contributing-to-cncf-open-source-projects/>
