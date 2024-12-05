@@ -53,10 +53,49 @@
 1. EMERALDWHALE黑客组织窃取15000+云凭据
 
     - 📅 日期：2024-11-1
-    - 🔗 链接：<https://hackread.com/emeraldwhale-steals-cloud-credentials-data-s3-bucket/>
+    - 🔗 链接1：<https://hackread.com/emeraldwhale-steals-cloud-credentials-data-s3-bucket/>
+    - 🔗 链接2：<https://sysdig.com/blog/emeraldwhale/>
     - 💬 简介：Sysdig 威胁研究团队发现名为 EMERALDWHALE 的全球攻击行动，窃取了超过15,000 个云服务凭证，主要通过滥用暴露的 Git 和 Laravel 文件进行攻击。攻击者利用这些凭证进行网络钓鱼和垃圾邮件活动，并将盗取的数据存储在被攻击者的 S3 桶中。这一事件突显了配置管理的重要性，提醒企业加强对敏感信息的保护。
 
 ## 2024-10
+
+1. Ansible-runner配置使用
+
+   - 📅 日期：2024-10-31
+   - 🔗 链接：<https://www.cncf.io/blog/2024/10/31/ansible-runner/>
+   - 💬 简介：通过适当的配置和设置，您可以创建封装的代码环境，该环境可以部署到容器或远程系统，并且可以解析结果以供进一步使用，例如在 CICD 管道中。
+
+1. 针对 lottie-player 的供应链攻击：你需要知道的一切
+
+    - 📅 日期：2024-10-31
+    - 🔗 链接：<https://www.wiz.io/blog/lottie-player-supply-chain-attack>
+    - 简介：2024年10月30日，针对流行的JavaScript库lottie-player发起了供应链攻击，注入恶意代码，在使用该库的合法网站上填充Web3钱包连接提示，可能针对主要的加密货币平台和其他高流量网站。lottie-player的受损版本后来从主要的CDN和npm中删除，但仍然使用该库的受损版本的网站仍然受到影响。
+
+1. 什么是 CSPM，看这篇就够了！(探真科技)
+   
+    - 📅 日期：2024-10-31
+    - 🔗 链接：<https://mp.weixin.qq.com/s/Du9h9NmP6KUkz7OqewOYTA>
+
+1. 2024年第三季度软件供应链安全报告（Phylum研究团队）
+
+    - 📅 日期：2024-10-31
+    - 🔗 链接：<https://blog.phylum.io/q3-2024-evolution-of-software-supply-chain-security-report/>
+
+1. 攻击者滥用受害者资源从Titan Network获取回报（趋势Trend博客）
+
+    - 📅 日期：2024-10-30
+    - 🔗 链接：<https://www.trendmicro.com/en_us/research/24/j/titan-network.html>
+    - 💬 简介：在这篇博客文章中，讨论了攻击者如何利用Atlassian Confluence漏洞CVE-2023-22527将服务器连接到Titan网络进行加密挖矿。
+
+1. 云漏洞管理的关键步骤
+   
+    - 📅 日期：2024-10-30
+    - 🔗 链接：<https://www.wiz.io/blog/essential-steps-for-cloud-vulnerability-management>
+    - 💬 简介：对云中的漏洞进行优先排序可能会非常困难，这篇Wiz博客帮助团队了解如何采用以速度和准确性为重点的工作流程。
+
+1. 持续漏洞管理的最佳实践（snyk博客）
+    - 📅 日期：2024-10-29
+    - 🔗 链接：<https://snyk.io/blog/best-practices-continuous-vulnerability-management/>
 
 1. TeamTNT 的 Docker Gatling Gun 战役
 
@@ -104,6 +143,10 @@
     - 🔗 链接：<https://mp.weixin.qq.com/s/fwAxKSddJDmz2AffMUDXTA>
     - 💬 简介：云原生技术的日益普及，也意味着云安全的重要性在不断增加。CNCF 委托了 LF Research 在其社区中进行了一项调查，询问开发者和 IT 领导如何评价他们的组织在云原生安全方面的应对措施。
   调查分析显示，普遍认为应用程序的安全性比两年前有所提升，但仍面临重大挑战和担忧，例如应对新兴威胁、软件的复杂性和漏洞扫描。调查结果揭示了需要改进的领域，以及 CNCF 可以在其中发挥作用的地方。
+
+1. 探索 Google Cloud 默认服务帐户：深入探究和实际应用趋势
+    - 📅 日期：2024-10-17
+    - 🔗 链接：<https://securitylabs.datadoghq.com/articles/google-cloud-default-service-accounts/>
 
 1. 2024 云原生安全报告
 
@@ -202,6 +245,10 @@
     - 📅 日期：2024-09-27
     - 🔗 链接：<https://cybersecuritynews.com/storm-0501-hybrid-cloud-attacks/>
     - 💬 简介：Storm-0501勒索软件集团针对美国多个部门和关键基础设施的混合云环境发起复杂多阶段攻击。该集团利用Zoho ManageEngine、Citrix NetScaler和ColdFusion 2016的漏洞获取系统访问权限，使用多种工具进行横向移动和凭证访问，并将攻击从本地环境转移到云环境。攻击者通过Rclone工具泄露数据，并部署了包括Hive、BlackCat和LockBit在内的多种勒索软件变种。这起事件凸显了混合云配置中日益增长的安全挑战。
+
+1. 威胁者利用 Docker Swarm 和 Kubernetes 大规模挖掘加密货币（来自Datadog）
+    - 📅 日期：2024-09-23
+    - 🔗 链接：<https://securitylabs.datadoghq.com/articles/threat-actors-leveraging-docker-swarm-kubernetes-mine-cryptocurrency/>
 
 1. CloudImposer: Executing Code on Millions of Google Servers with a Single Malicious Package
 
@@ -488,6 +535,14 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
     - 📅 日期：2024-01-31
     - 🔗 链接：[Buildkit build-time container teardown arbitrary delete (CVE-2024-23652)](https://snyk.io/blog/cve-2024-23652-buildkit-build-time-container-teardown-arbitrary-delete/)
     - 💬 简介：Snyk 发现 Docker Buildkit <=v0.12.4 的所有版本中均存在漏洞，Docker 引擎正是使用这个漏洞。利用此漏洞，在使用恶意 Dockerfile 或上游镜像（即使用FROM）构建镜像时，底层主机操作系统中可能会出现任意文件和目录删除。此漏洞已分配 CVE-2024-23652。
+
+## 2023-12
+
+1. 增强供应链安全性：实施Sigstore以实现自动化容器镜像签名
+
+    - 📅 日期：2023-12-18
+    - 🔗 链接：[Scaling Up Supply Chain Security: Implementing Sigstore for Seamless Container Image Signing](https://www.yahooinc.com/paranoids/scaling-up-supply-chain-security-implementing-sigstore-for-seamless-container-image-signing)
+    - 💬 简介：来自Yahoo博客，介绍了如何在企业内部使用Sigstore开源工具对容器镜像进行自动化签名验证。
 
 ## 2023-11
 
