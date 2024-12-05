@@ -28,6 +28,7 @@
 
     - 🔗 链接：<https://github.com/Metarget/metarget>
     - 💬 简介：一个脆弱基础设施自动化构建框架，主要用于快速、自动化搭建从简单到复杂的脆弱云原生靶机环境。目前涉及到的有：docker、containerd、runc、kubectl、kubernetes-cni、kernel、kata-containers和危险配置等。
+    - 💬 官方简介：[全新升级 — 云原生开源靶场Metarget 1.0亮点功能提前曝光](https://mp.weixin.qq.com/s/I-xWQZ4iQoOIwguJg0XGqQ)
 
 1. KernJC
 
