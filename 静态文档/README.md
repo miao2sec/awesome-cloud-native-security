@@ -6,6 +6,18 @@
 
 ## 2024-11
 
+1. 恶意 PyPI 软件包“Fabrice”窃取数千名开发人员的 AWS 密钥
+
+    - 📅 日期：2024-11-7
+    - 🔗 链接：<https://thehackernews.com/2024/11/malicious-pypi-package-fabrice-found.html>
+    - 💬 简介：网络安全研究人员在Python包索引（PyPI）上发现了一个恶意软件包，该软件包在三年多的时间里下载了数千次，同时偷偷地窃取了开发人员的亚马逊网络服务（AWS）凭据。有问题的包是“fabrice”，它与一个名为“fabric”的流行Python库相匹配，该库旨在通过SSH远程执行shell命令。
+
+1. 初探Linux内核eBPF之恶意程序行为监控
+
+    - 📅 日期：2024-11-4
+    - 🔗 链接：<https://mp.weixin.qq.com/s/wxxS0x8Q4XjqEE5MO_G52A>
+    - 💬 简介：本文使用Go语言来编写用户态程序，设计一个可以监控恶意程序行为的沙箱，由于监测程序的命令执行和网络请求。（来自山石网科安全技术研究院）
+
 1. Kubernetes RBAC：改善 K8s 的安全态势
 
     - 📅 日期：2024-11-8
