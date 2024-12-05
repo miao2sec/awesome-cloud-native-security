@@ -13,6 +13,7 @@
 1. Halberd
 
     - 🔗 链接：<https://github.com/vectra-ai-research/Halberd>
+    - 💬 博客介绍：<https://securityonline.info/halberd-your-swiss-army-knife-for-multi-cloud-security-testing/>
     - 💬 简介：Halberd 是一款功能强大的多云安全测试工具。 Halberd 的诞生源于对统一、易于使用的工具的需求，它使您能够通过跨 Entra ID、M365、Azure 和 AWS 执行一系列全面的攻击技术来主动评估您的云防御。借助其直观的 Web 界面，您可以模拟现实世界的攻击，生成有价值的遥测数据，并轻松快速地验证您的安全控制。
 
 1. ebpfangel
