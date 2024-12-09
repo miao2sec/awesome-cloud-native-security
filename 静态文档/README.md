@@ -4,6 +4,14 @@
 >
 > **一旦完成后内容基本不再变化的文档**。它们通常在首次创建和发布后不进行定期更新。
 
+## 2024-12
+
+1. 使用云访问凭证蜜标及时发现入侵行为
+
+    - 📅 日期：2024-12-9
+    - 🔗 链接：<https://mp.weixin.qq.com/s/V-LfgmZ_5su6ikvd7bSsPQ>
+    - 💬 简介：文章介绍了使用云访问凭证蜜标及时发现入侵行为的方法。云上访问凭证泄露是云安全事件常见且难解决的问题，云厂商虽有检测能力但存在不足。企业可使用蜜标（Honeytokens）快速发现凭证泄露，文中以腾讯云为例，介绍通过云访问凭证蜜标发现企业云上入侵行为的方法，包括创建蜜标凭证及部署操作审计服务和日志服务的步骤，如在访问管理中创建用户及访问凭证、在操作审计界面创建跟踪集、在日志服务中设置通知渠道和告警策略等。最后总结读者可根据自身情况调整通知平台、模版和告警频率，安全人员可放置不同蜜标凭证以快速发现入侵位置，企业应尽快响应以降低影响。
+
 ## 2024-11
 
 1. 恶意 PyPI 软件包“Fabrice”窃取数千名开发人员的 AWS 密钥
@@ -463,6 +471,11 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
 
     - 📅 日期：2024-07-25
     - 🔗 链接：[Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
+
+1. 云原生应用保护平台市场指南
+    - 📅 日期：2024-07-22
+    - 🔗 链接：[Market Guide for Cloud-Native Application Protection Platforms](https://www.gartner.com/doc/reprints?id=1-2I6YT1ZQ&ct=240726&st=sb)
+
 
 1. 一份循序渐进的AWS渗透测试指南
 
