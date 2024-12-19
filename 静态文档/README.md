@@ -575,7 +575,7 @@ Kanister Vulnerability Opens Door to Cluster-Level Privilege Escalation(CVE-2024
     - 🔗 链接：[Scaling Up Supply Chain Security: Implementing Sigstore for Seamless Container Image Signing](https://www.yahooinc.com/paranoids/scaling-up-supply-chain-security-implementing-sigstore-for-seamless-container-image-signing)
     - 💬 简介：来自Yahoo博客，介绍了如何在企业内部使用Sigstore开源工具对容器镜像进行自动化签名验证。
 
-2. 容器镜像加固：Docker 的最佳实践和案例
+1. 容器镜像加固：Docker 的最佳实践和案例
 
     - 📅 日期：2023-12-20
     - 🔗 链接：[Hardening Container Images: Best Practices and Examples for Docker](https://medium.com/@SecurityArchitect/hardening-container-images-best-practices-and-examples-for-docker-e941263cab13)

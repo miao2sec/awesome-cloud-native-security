@@ -111,6 +111,6 @@
     - 🔗 链接：<https://help.aliyun.com/zh/oss/developer-reference/oss-tools>
     - 💬 简介：阿里云官方的 OSS 管理工具和社区开发的第三方工具和插件。若AK（Access Key）/SK（Secret Key）泄露了，可以使用这些工具进行托管。
 
-2. Docker 安全备忘录
+1. Docker 安全备忘录
     - 🔗 链接：<https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html>
     - 💬 简介：OWASP 的 Docker Security Cheat Sheet
