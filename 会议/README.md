@@ -4,6 +4,13 @@
 >
 > **不定期更新云安全相关会议内容**。
 
+## 2024-12
+
+4. **AWS re:Invent 2024**
+    - 📅 日期：2024-12-1
+    - 💬 简介：AWS re:Invent 是AWS为全球云计算社区举办的学习会议。现场活动包括主题演讲、培训和认证机会、可以获取 2,000 多场技术会议、博览会、工作外活动等等。
+    - 🔗 2024会议记录：<https://youtube.com/playlist?list=PLdq8VB0hSfcYjWMBLrItQTNSbhXZ-jElD&si=qh7fDg5lb8au-Vh1>
+
 ## 2024-08
 
 3. **DEFCON 32的云安全专题**
