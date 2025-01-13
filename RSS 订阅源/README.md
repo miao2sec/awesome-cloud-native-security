@@ -164,3 +164,19 @@
 - 介绍: Hacking The Cloud专注于云环境中的渗透测试和安全研究，分享实用的攻防技术。  
 - Feed: <https://hackingthe.cloud/feed_rss_created.xml>
 
+1. Cloud Native Now
+- 介绍: 内容包括深入特写、署名文章、博客文章以及关于与 IT 读者对云原生计算感兴趣的主题的突发新闻：Kubernetes、平台工程、平台即服务、云原生安全、云原生应用保护、SaaS、容器等更多。 
+- Feed: <https://cloudnativenow.com/feed/>
+
+1. The New Stack
+- 介绍: 一个关于云原生等相关技术的博客平台。 
+- Feed: <https://thenewstack.io/kubernetes/feed/>
+
+1. Cloud Security – NVISO Labs
+- 介绍: 一个安全研究实验室博客网站，这里只订阅了云安全部分。
+- Feed: <https://blog.nviso.eu/category/cloud-security/feed/>
+
+1. Cloud Security – Security Café
+- 介绍: 一个安全研究博客网站，这里只订阅了云安全部分。
+- Feed: <https://securitycafe.ro/category/cloud-security/feed/>
+
