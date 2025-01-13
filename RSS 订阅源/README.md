@@ -52,5 +52,5 @@
 
 1. CD's second night
 
-- 介绍：
+- 介绍：一位持续专注云原生、云服务利用、容器安全的安全研究员
 - Feed：<https://www.cdxiaodong.life/rss/feed.xml>
