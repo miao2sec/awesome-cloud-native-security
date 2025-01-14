@@ -7,9 +7,8 @@
 ## 云原生厂商博客
 
 1. Wiz
-
-  - 介绍：有关云安全和 Wiz 平台的指南、公告和文章。
-  - Feed ：<https://www.wiz.io/feed/rss.xml>
+    - 介绍：有关云安全和 Wiz 平台的指南、公告和文章。
+    - Feed ：<https://www.wiz.io/feed/rss.xml>
 
 1. Aqua Security
 
