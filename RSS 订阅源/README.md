@@ -12,43 +12,43 @@
 
 1. Aqua Security
 
-  - 介绍：云原生安全博客：容器安全、Kubernetes 安全、Docker 安全、DevOps 工具、DevSecOps、镜像扫描、持续集成、运行时保护等。
-  - Feed ：<https://blog.aquasec.com/rss.xml>
+    - 介绍：云原生安全博客：容器安全、Kubernetes 安全、Docker 安全、DevOps 工具、DevSecOps、镜像扫描、持续集成、运行时保护等。
+    - Feed ：<https://blog.aquasec.com/rss.xml>
 
 1. Snyk
 
-  - 介绍：开发者安全平台。
-  - Feed ：<https://snyk.io/blog/feed/>
+    - 介绍：开发者安全平台。
+    - Feed ：<https://snyk.io/blog/feed/>
 
 1. Trend Micro
 
-  - 介绍：趋势科技研究、新闻和观点。
-  - Feed ：<http://feeds.trendmicro.com/TrendMicroSimplySecurity>
+    - 介绍：趋势科技研究、新闻和观点。
+    - Feed ：<http://feeds.trendmicro.com/TrendMicroSimplySecurity>
 
 1. Datadog Security Labs
 
-  - 介绍：Datadog Security Labs 是阅读 Datadog 为社区发布的有关安全研究和工具的博客内容的地方。
-  - Feed ：<https://securitylabs.datadoghq.com/rss/feed.xml>
+    - 介绍：Datadog Security Labs 是阅读 Datadog 为社区发布的有关安全研究和工具的博客内容的地方。
+    - Feed ：<https://securitylabs.datadoghq.com/rss/feed.xml>
 
 1. Sysdig
 
-  - 介绍：Sysdig 的研究、新闻和观点。
-  - Feed ：<https://sysdig.com/feed/>
+    - 介绍：Sysdig 的研究、新闻和观点。
+    - Feed ：<https://sysdig.com/feed/>
 
 1. RAD
 
-  - 介绍：RAD Security 的 Kubernetes 博客提供了有关确保 Kubernetes 集群安全以及修复漏洞和错误配置的指导。
-  - Feed ：<https://rad.security/blog/rss.xml>
+    - 介绍：RAD Security 的 Kubernetes 博客提供了有关确保 Kubernetes 集群安全以及修复漏洞和错误配置的指导。
+    - Feed ：<https://rad.security/blog/rss.xml>
 
 1. HashiCorp Blog  
   
-  - 介绍: HashiCorp博客提供云基础设施和安全工具的最新动态，涵盖Terraform、Vault等产品。  
-  - Feed: <https://www.hashicorp.com/blog/feed.xml>
+    - 介绍: HashiCorp博客提供云基础设施和安全工具的最新动态，涵盖Terraform、Vault等产品。  
+    - Feed: <https://www.hashicorp.com/blog/feed.xml>
 
 1. The SADA Engineering Blog- Medium  
 
-  - 介绍: SADA工程博客分享Google Cloud平台的最佳实践和技术案例，帮助企业优化云架构。  
-  - Feed: <https://engineering.sada.com/feed>
+    - 介绍: SADA工程博客分享Google Cloud平台的最佳实践和技术案例，帮助企业优化云架构。  
+    - Feed: <https://engineering.sada.com/feed>
 
 1. SentinelOne  
 
