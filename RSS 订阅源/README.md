@@ -98,6 +98,11 @@
     - 介绍: 该博客提供全球网络安全新闻和事件更新，帮助用户了解最新的安全威胁和趋势。  
     - Feed: <https://securityonline.info/feed/>
 
+1. Joho no Todai（情報の灯台）— Security News
+
+    - 介绍：提供 Linux、软件漏洞、云服务安全事件及网络安全更新的新闻与分析，使用日语。
+    - Feed：<https://joho-todai.com/tag/security/rss/>
+
 1. Security Blog | Praetorian
    
     - 介绍: Praetorian博客提供渗透测试、漏洞研究和安全咨询的深度文章，适合安全专家阅读。  
